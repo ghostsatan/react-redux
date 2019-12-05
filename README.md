@@ -1,16 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+react + ant-desgin + redux + axios
 
-## Available Scripts
+## redux相关介绍可以看一下的文
 
-In the project directory, you can run:
+(http://jspang.com/posts/2019/06/20/redux.html#p06-%E5%9F%BA%E7%A1%80-redux-dev-tools%E7%9A%84%E5%AE%89%E8%A3%85)
 
-### `yarn start`
+### `项目介绍`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+简单的redux 路由
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+ant-design 引入了常用的组件
+
+axios接口请求
+
+父子组件传参
+
+组件嵌套等
 
 ### `yarn test`
 
